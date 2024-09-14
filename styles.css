@@ -46,6 +46,12 @@ button {
     margin: auto;
     padding: 5%;
 }
-.search_icon {
-    margin: 10px;
+.search_icon a {
+    font-size: 24px;
+    color: #ffffff;
+    text-decoration: none;
+    margin-right: 15px;
+}
+.search_icon a:hover {
+    color: #40009a;
 }
